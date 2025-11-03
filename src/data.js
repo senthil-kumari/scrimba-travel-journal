@@ -35,4 +35,17 @@ export default [
     dates: "01 Oct, 2021 - 18 Nov, 2021",
     text: "The Geiranger Fjord is a fjord in the Sunnmøre region of Møre og Romsdal county, Norway. It is located entirely in the Stranda Municipality.",
   },
+  {
+    id: 4,
+    img: {
+      src: "https://upload.wikimedia.org/wikipedia/commons/a/ab/3Falls_Niagara.jpg",
+      alt: "Niagara Falls",
+    },
+    title: "Niagara Falls",
+    country: "Canada",
+    googleMapsLink:
+      "https://www.google.com/maps/place/niagara+falls/data=!4m2!3m1!1s0x89d3445eec824db9:0x46d2c56156bda288?sa=X&ved=1t:155783&ictx=111",
+    dates: "20 Apr, 2025 - 21 Apr, 2025",
+    text: "Niagara Falls is a group of three waterfalls at the southern end of Niagara Gorge, spanning the border between the province of Ontario in Canada and the state of New York in the United States. The largest of the three is Horseshoe Falls, which straddles the international border of the two countries. It is also known as the Canadian Falls.",
+  },
 ];
